@@ -13,7 +13,7 @@ Antony = {
                 'industry': 'Fintech'
                 },
             'open_to_work': True,
-            'looking': 'Improve my Java skills on a Tech company'
+            'looking': 'Improve my Java/Python skills on a Tech company'
         }
 pprint(Antony)
 ```
@@ -26,3 +26,5 @@ A little bit about myself (Github ideas):
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/antony-arevalo-arias/">LinkedIn: Antony Arevalo<a/>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to ride my bike around my country
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=antonyare93&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
