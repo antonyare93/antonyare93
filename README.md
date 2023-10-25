@@ -23,7 +23,7 @@ pprint(Antony)
 ```
 A little bit about myself (Github ideas):
 
-- 🔭 I’m currently working on a **Fintech** called **Juancho te presta** 
+- 🔭 I’m currently working on a **Fintech** called (surprise) 
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Java projects
 - 🤔 I’m looking for help with Machine Learning problems
