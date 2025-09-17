@@ -27,7 +27,6 @@ pprint(Antony)
 A little bit about myself (Github ideas):
 
 - 🔭 I’m currently working on a **Fintech** called uFlow 
-- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Java, C++ and Python projects
 - 🤔 I’m looking for help with Machine Learning problems
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/antony-arevalo-arias/">LinkedIn: Antony Arevalo<a/>
