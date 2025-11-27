@@ -16,7 +16,7 @@ Antony = {
             'country': 'Colombia',
             'code': ['Python', 'Java', 'HTML', 'SQL', 'C++', 'CSS', 'JS'],
             'job': {
-                'title': 'Support and Implementation Analyst',
+                'title': 'Developer',
                 'at': 'uFlow',
                 'industry': 'Fintech'
                 },
